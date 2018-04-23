@@ -19,4 +19,3 @@ function sayHiToGrandma(s) {
     return 'I love you, too.';
   }
 }
-function
